@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyInputControls</string>
+    <string-array name="branchNames">
+        <item>Cse</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Mech</item>
+    </string-array>
+</resources>
